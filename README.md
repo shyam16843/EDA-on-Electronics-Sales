@@ -114,25 +114,17 @@ Payment Impact: Credit cards have 15% fewer cancellations
 
 🔮 Future Work
 
-Predictive Modeling
-
-Develop sales forecasting models
+Predictive Modeling: Develop sales forecasting models
 
 
 
-Customer Segmentation
-
-RFM analysis implementation
+Customer Segmentation: RFM analysis implementation
 
 
 
-Interactive Dashboard
-
-Build Shiny application
+Interactive Dashboard: Build Shiny application
 
 
 
-Market Basket Analysis
-
-Identify product affinities
+Market Basket Analysis: Identify product affinities
 
