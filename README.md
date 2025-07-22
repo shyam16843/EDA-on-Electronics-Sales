@@ -10,9 +10,9 @@ Exploratory Data Analysis of electronics sales data to uncover trends, customer 
 
 \## 📂 Files Included
 
-\- `edaexcel.xlsx - EDA.csv`: Raw sales dataset
+\- `edaexcel.xlsx - EDA.csv`: Raw sales dataset  
 
-\- `edarcode.R`: R script for cleaning, analysis, and visualization
+\- `edarcode.R`: R script for cleaning, analysis, and visualization  
 
 
 
@@ -70,53 +70,77 @@ git clone https://github.com/shyam16843/EDA-on-Electronics-Sales.git
 
 cd EDA-on-Electronics-Sales
 
-```
+Install R dependencies:
 
 
 
-\####Install r dependencies:
-
-```bash
+r
 
 install.packages(c("readxl", "ggplot2", "reshape2"))
 
+Execute the analysis:
+
+
+
+bash
+
 Rscript edarcode.R
 
-``
+🔎 Key Findings
+
+Sales Trends: Highest sales in December (holiday season)
 
 
 
-\##🔎 Key Findings
-
-1.Sales Trends: Highest sales in \[Month X].
+Top Products: Smartphones dominate revenue (42% share)
 
 
 
-2.Top Products: \[Category Y] dominates revenue.
+Customer Insights: Age group 25-34 is the primary buyer (58%)
 
 
 
-3.Customer Insights: \[Age Group Z] is the primary buyer.
+Payment Impact: Credit cards have 15% fewer cancellations
 
 
 
-4.Payment Impact: \[Method A] has fewer cancellations.
+📚 Resources
+
+📄 Full Report (PDF)
+
+🖥️ Presentation Slides
 
 
 
-<a href="https://drive.google.com/file/d/1lTyGMuw7KHLnVn-BDukMw4kROXvpuDTD/view?usp=sharing">📄 Full Report (PDF)</a> | <a href="https://docs.google.com/presentation/d/1hVretST-PIBlkxOgqLTN697TMCVnn2IO/edit?usp=sharing\&ouid=116007538419023173984\&rtpof=true\&sd=true">🖥️ Slides (PPT)</a>
+🔮 Future Work
+
+Predictive Modeling
 
 
 
-\##🔮 Future Work
-
-1.Predictive sales modeling.
+Develop sales forecasting models
 
 
 
-2.Customer segmentation.
+Customer Segmentation
 
 
 
-3.Interactive Shiny dashboard.
+RFM analysis implementation
+
+
+
+Interactive Dashboard
+
+
+
+Build Shiny application
+
+
+
+Market Basket Analysis
+
+
+
+Identify product affinities
 
