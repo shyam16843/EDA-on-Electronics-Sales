@@ -114,7 +114,7 @@ Payment Impact: \[Method A] has fewer cancellations.
 
 
 
-📄 \[Full Report (PDF)](https://drive.google.com/file/d/1lTyGMuw7KHLnVn-BDukMw4kROXvpuDTD/view?usp=sharing) | 🖥️ \[Slides (PPT)](https://docs.google.com/presentation/d/1hVretST-PIBlkxOgqLTN697TMCVnn2IO/edit?usp=sharing\&ouid=116007538419023173984\&rtpof=true\&sd=true)
+<a href="https://drive.google.com/file/d/1lTyGMuw7KHLnVn-BDukMw4kROXvpuDTD/view?usp=sharing">📄 Full Report (PDF)</a> | <a href="https://docs.google.com/presentation/d/1hVretST-PIBlkxOgqLTN697TMCVnn2IO/edit?usp=sharing\&ouid=116007538419023173984\&rtpof=true\&sd=true">🖥️ Slides (PPT)</a>
 
 
 
