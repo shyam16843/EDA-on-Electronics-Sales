@@ -2,7 +2,7 @@
 
 
 
-\## 📋 Project Overview
+\## 🔍 Project Overview
 
 Exploratory Data Analysis of electronics sales data to uncover trends, customer behaviors, and business insights.
 
@@ -12,57 +12,57 @@ Exploratory Data Analysis of electronics sales data to uncover trends, customer 
 
 \- `edaexcel.xlsx - EDA.csv`: Raw sales dataset  
 
-\- `edarcode.R`: R script for cleaning, analysis, and visualization  
+\- `edarcode.R`: R script for analysis and visualization  
 
 
 
-\## 🔍 Key Questions Explored
+\## 🎯 Key Questions
 
-\- What are the monthly/quarterly sales trends?
+\- Monthly/quarterly sales trends  
 
-\- Which product categories perform best/worst?
+\- Best/worst performing product categories  
 
-\- How do customer demographics (age, gender) affect sales?
+\- Customer demographic impacts (age/gender)  
 
-\- What is the impact of payment methods on order completion?
-
-
-
-\## 📊 Methodology
-
-1\. \*\*Data Loading \& Inspection\*\*
-
-2\. \*\*Data Cleaning\*\* (missing values, transformations)
-
-3\. \*\*Descriptive Statistics\*\* (mean, median, distribution)
-
-4\. \*\*Univariate \& Bivariate Analysis\*\*
-
-5\. \*\*Visualization\*\* (ggplot2, heatmaps)
-
-6\. \*\*Insight Generation\*\*
+\- Payment method influence on orders  
 
 
 
-\## 💻 Technologies Used
+\## 🛠️ Methodology
 
-| Tool       | Purpose                      |
+1\. \*\*Data Loading\*\* - Initial dataset inspection  
 
-|------------|------------------------------|
+2\. \*\*Data Cleaning\*\* - Handle missing values and outliers  
 
-| R          | Data analysis \& scripting    |
+3\. \*\*Feature Engineering\*\* - Create new meaningful features  
 
-| ggplot2    | Advanced visualizations      |
+4\. \*\*Statistical Analysis\*\* - Calculate key metrics  
 
-| reshape2   | Data transformation          |
+5\. \*\*Visualization\*\* - Generate plots with ggplot2  
 
-| readxl     | Excel file handling          |
+6\. \*\*Insight Generation\*\* - Draw actionable conclusions  
 
 
 
-\## 🚀 How to Run
+\## 💻 Technologies
 
-1\. Clone the repository:
+| Tool       | Purpose                     |
+
+|------------|-----------------------------|
+
+| R          | Data analysis               |
+
+| ggplot2    | Visualizations              |
+
+| reshape2   | Data transformation         |
+
+| readxl     | Excel file handling         |
+
+
+
+\## 🚀 Installation Guide
+
+1\. Clone repository:
 
 ```bash
 
